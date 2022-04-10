@@ -1,0 +1,22 @@
+div {
+    /*border: solid green 2px;*/
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+}
+
+p {
+    /*border: solid red 2px;*/
+    background-color: green;
+    color: white;
+    font-size: 18px;
+}
+
+button {
+    /*border: solid blue 2px;*/
+    background-color: orange;
+    font-size: 18px;
+}
